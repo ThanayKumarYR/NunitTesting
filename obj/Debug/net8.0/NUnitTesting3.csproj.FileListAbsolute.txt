@@ -1,0 +1,15 @@
+C:\Users\Thanay\source\repos\NUnitTesting3\bin\Debug\net8.0\NUnitTesting3.exe
+C:\Users\Thanay\source\repos\NUnitTesting3\bin\Debug\net8.0\NUnitTesting3.deps.json
+C:\Users\Thanay\source\repos\NUnitTesting3\bin\Debug\net8.0\NUnitTesting3.runtimeconfig.json
+C:\Users\Thanay\source\repos\NUnitTesting3\bin\Debug\net8.0\NUnitTesting3.dll
+C:\Users\Thanay\source\repos\NUnitTesting3\bin\Debug\net8.0\NUnitTesting3.pdb
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.AssemblyInfoInputs.cache
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.AssemblyInfo.cs
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.sourcelink.json
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.dll
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\refint\NUnitTesting3.dll
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.pdb
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\NUnitTesting3.genruntimeconfig.cache
+C:\Users\Thanay\source\repos\NUnitTesting3\obj\Debug\net8.0\ref\NUnitTesting3.dll
